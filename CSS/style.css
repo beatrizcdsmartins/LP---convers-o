@@ -65,6 +65,8 @@ header {
   color: var(--dark-blue);
   padding-top: 20px;
   padding-bottom: 15px;
+  padding-left: 5px;
+  padding-right: 5px;
 }
 #home .container-intern-home {
   display: flex;
